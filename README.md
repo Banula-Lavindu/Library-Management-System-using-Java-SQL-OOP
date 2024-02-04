@@ -60,4 +60,4 @@ The purpose of the Library Management System is to streamline library operations
 
 ## Demo Video
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/5Y72sh9h_BY)
+[![Watch the video](https://github.com/Banula-Lavindu/Library-Management-System-using-Java-SQL-OOP/blob/08d70b969260b1f018c568b1a71e68400cf0e79a/Screenshot%20(1).png)](https://youtu.be/5Y72sh9h_BY)
