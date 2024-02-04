@@ -59,6 +59,5 @@ The Library Management System is built using Object-Oriented Programming princip
 The purpose of the Library Management System is to streamline library operations, improve efficiency in book management, enhance borrower experience, and provide insights for decision-making through data analytics.
 
 ## Demo Video
-https://www.youtube.com/embed/5Y72sh9h_BY
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
-<iframe width="764" height="430" src="https://www.youtube.com/embed/5Y72sh9h_BY" title="Library-Management-System-using-Java-SQL-OOP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
