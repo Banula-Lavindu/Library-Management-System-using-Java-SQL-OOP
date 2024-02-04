@@ -60,4 +60,4 @@ The purpose of the Library Management System is to streamline library operations
 
 ## Demo Video
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/5Y72sh9h_BY)
