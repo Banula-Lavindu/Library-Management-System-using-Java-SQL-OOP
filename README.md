@@ -1,4 +1,3 @@
-
 # Library Management System
 
 ## Overview
@@ -33,6 +32,15 @@ The Library Management System is a software application designed to automate the
    - Secure login system for librarians and borrowers with role-based access control.
    - Librarians have full access to system functionalities, while borrowers have limited access to searching and borrowing books.
 
+## Object-Oriented Programming (OOP) Concepts Used
+
+The Library Management System is built using Object-Oriented Programming principles, including:
+
+- **Encapsulation:** Classes like `Book`, `Borrower`, and `Library` encapsulate related data and methods, hiding internal implementation details from the outside world.
+- **Inheritance:** Inheritance is utilized to model relationships such as `Book` and `EBook` inheriting from a common `Resource` class. This promotes code reusability and enhances maintainability.
+- **Polymorphism:** Polymorphism is achieved through method overriding, allowing different types of objects to be treated uniformly. For example, the `displayDetails()` method can be overridden in subclasses like `EBook` to provide specific implementations.
+- **Abstraction:** Abstract classes and interfaces are used to define common behavior and contracts. For instance, an `Item` interface might define methods like `checkOut()` and `returnItem()`, which are implemented by concrete classes like `Book` and `DVD`.
+
 ## Technologies Used
 
 - Java: For the backend logic and business operations.
@@ -52,5 +60,6 @@ The purpose of the Library Management System is to streamline library operations
 
 ## Demo Video
 
-[![Library Management System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://nibm-my.sharepoint.com/:f:/g/personal/kic-hndcsai-221f-007_student_nibm_lk/EnY-fZgoLKNMoeABHfID7ZUBxWZ0KRDW3pUjWwXUFT3bwQ?e=L7RRs5)
+[![Library Management System Demo]<iframe width="560" height="315" src="https://youtu.be/5Y72sh9h_BY" frameborder="0" allowfullscreen></iframe>
+
 
